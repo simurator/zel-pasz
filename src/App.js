@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import tango from './images/tango.jpg'; // <- Dodany import
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
     return (
